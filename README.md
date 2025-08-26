@@ -1,29 +1,29 @@
 # 👋 Hi, I'm Hafeez Rafeq  
 
-🚀 **Full Stack Web & Mobile Developer | React Native | Expo | Firebase | JavaScript**  
+🚀 **Full Stack Web & Mobile Developer**  
+💻 React Native | Expo | Firebase | JavaScript | MERN  
 
-I specialize in building modern web applications and cross-platform mobile apps.  
-Passionate about creating scalable, user-friendly solutions with clean UI & strong backend integration.  
+I love building modern, scalable, and user-friendly apps with clean UI & strong backend integration.  
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-- React.js, Next.js, HTML5, CSS3, TailwindCSS  
+React.js · Next.js · HTML5 · CSS3 · TailwindCSS  
 
 **Mobile:**  
-- React Native, Expo  
+React Native · Expo  
 
 **Backend & Database:**  
-- Node.js, Express.js, Firebase, MongoDB  
+Node.js · Express.js · Firebase · MongoDB  
 
 **Tools & Platforms:**  
-- Git, GitHub, VS Code, Figma, Vercel, Netlify  
+Git · GitHub · VS Code · Figma · Vercel · Netlify  
 
 ---
 
-## 📌 Featured Projects 
+## 📌 Featured Projects  
 
 - ☀️ [Solar Saver](https://github.com/hafeezrafeeq/solar-saver) – Renewable Energy Project  
 - 🍽️ [Green Protocol](https://github.com/hafeezrafeeq/green-protocol) – Environmental Awareness App  
@@ -32,11 +32,35 @@ Passionate about creating scalable, user-friendly solutions with clean UI & stro
 
 ---
 
+## 📊 GitHub Insights (Dashboard Style)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafeezrafeeq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafeezrafeeq&theme=radical&utcOffset=5" />
+</p>
+
 ---
 
+## ⚡ Tech Badges  
 
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
 
 ## 🌍 Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafeez-rafeeq)  
-📧 Email: **hafeezrafeeq031@gmail.com**  
+📧 **hafeezrafeeq031@gmail.com**
