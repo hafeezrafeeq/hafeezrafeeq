@@ -35,17 +35,17 @@ Git · GitHub · VS Code · Figma · Vercel · Netlify
 ## 📊 GitHub Insights (Dashboard Style)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafeezrafeeq&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafeezrafeeq&theme=radical&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafeezrafeeq&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hafeezrafeeq&theme=default&utcOffset=5" />
 </p>
 
 ---
