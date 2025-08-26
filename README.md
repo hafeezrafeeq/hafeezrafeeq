@@ -32,16 +32,6 @@ Passionate about creating scalable, user-friendly solutions with clean UI & stro
 
 ---
 
-## 📊 GitHub Stats  
-
-![Hafeez's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafeezrafeeq&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezrafeeq&layout=compact&theme=radical) 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hafeezrafeeq&bg_color=0d1117&color=ffffff&line=5bcdec&point=f9d71c&area=true&hide_border=true)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-
 ---
 
 
