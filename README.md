@@ -9,7 +9,13 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 ## 📊 GitHub Insights (Dashboard Style)
 
-
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=default" 
+    alt="Hafeez's GitHub Profile Details"
+    style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.15); padding: 8px; background: #ffffff;"
+  />
+</p>
 
 
 <p align="center">
