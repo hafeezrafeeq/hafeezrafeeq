@@ -7,31 +7,16 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Frontend:**  
-React.js · Next.js · HTML5 · CSS3 · TailwindCSS  
-
-**Mobile:**  
-React Native · Expo  
-
-**Backend & Database:**  
-Node.js · Express.js · Firebase · MongoDB  
-
-**Tools & Platforms:**  
-Git · GitHub · VS Code · Figma · Vercel · Netlify  
-
----
-
 ## 📊 GitHub Insights (Dashboard Style)
-
-<p align="center">
+<p display="flex justify-center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=default" />
 </p>
 
-<p align="center">
+<p >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=default" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=default" />
+</p>
 </p>
 
 ---
