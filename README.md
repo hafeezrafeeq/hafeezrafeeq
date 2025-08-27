@@ -7,6 +7,7 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 ---
 
+
 ## 📊 GitHub Insights (Dashboard Style)
 
   <img 
@@ -18,8 +19,8 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafeezrafeeq&show_icons=true&theme=default" width="45%" height="245" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezrafeeq&layout=compact&theme=default" width="40%" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafeezrafeeq&show_icons=true&theme=default" width="46%" height="245" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezrafeeq&layout=compact&theme=default" width="41%" height="200" />
 </p>
 
 
