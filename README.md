@@ -40,16 +40,8 @@ Git · GitHub · VS Code · Figma · Vercel · Netlify
 
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,react,expo,nodejs,express,mongodb,firebase,git,github,vscode,figma,vercel,netlify" />
 
-  <!-- Mobile -->
-  <img src="https://skillicons.dev/icons?i=react,expo" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 
 
 ---
