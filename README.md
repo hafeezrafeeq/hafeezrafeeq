@@ -38,4 +38,4 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 
 ---
-
+<img src="your-image-link.png" width="250" style="border-radius:0px;" />
