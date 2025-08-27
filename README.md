@@ -8,16 +8,24 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 ---
 
 ## 📊 GitHub Insights (Dashboard Style)
-<p display="flex justify-center">
-<p >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafeezrafeeq&theme=default" />
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,redux" />
+  
+  <!-- Mobile -->
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
 </p>
 
-<p >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=default" />
-</p>
-</p>
 
 ---
 
