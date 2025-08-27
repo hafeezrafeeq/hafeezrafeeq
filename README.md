@@ -25,7 +25,7 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,expo,nodejs,express,mongodb,firebase,git,github,vscode,photoshop,illustrator ,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,expo,nodejs,express,mongodb,firebase,git,github,vscode,vercel,netlify" />
 
 
 
