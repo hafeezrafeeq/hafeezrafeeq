@@ -50,11 +50,9 @@ Git · GitHub · VS Code · Figma · Vercel · Netlify
 
 ---
 
-## ⚡ Tech Badges  
-
 ### ⚡ Tech Stack  
 
-<p align="center">
+
   <!-- Frontend -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" /><br/>
 
@@ -66,7 +64,6 @@ Git · GitHub · VS Code · Figma · Vercel · Netlify
 
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify" />
-</p>
 
 
 ---
