@@ -17,13 +17,12 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
   />
 
 
-
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hafeezrafeeq&theme=default"
-   width="42%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafeezrafeeq&theme=default" 
-   width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hafeezrafeeq&show_icons=true&theme=default" width="445" height="245" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezrafeeq&layout=compact&theme=default" width="400" height="200" />
 </p>
+
+
 
 ---
 
@@ -37,7 +36,3 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 ---
 
-## 🌍 Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hafeez-rafeeq)  
-📧 **hafeezrafeeq031@gmail.com**
