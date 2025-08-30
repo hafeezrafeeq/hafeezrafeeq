@@ -32,7 +32,7 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,vercel,netlify,expo,vite,bootstrap" />
 </p>
 
 
