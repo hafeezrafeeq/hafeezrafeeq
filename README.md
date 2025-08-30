@@ -8,7 +8,7 @@ I love building modern, scalable, and user-friendly apps with clean UI & strong 
 ---
 
 
-## 📊 GitHub Insights (Dashboard Style)
+## 📊 GitHub Insights
 
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=hafeezrafeeq&bg_color=ffffff&color=0d1117&line=0d1117&point=ff6f61&area=true&hide_border=true" 
